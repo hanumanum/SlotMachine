@@ -1,0 +1,16 @@
+#slotmachine{
+    width:500px;
+    background-color: wheat;
+    height: 100px;
+    margin:150px auto;
+}
+
+.slot{
+    width:32.8%;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0px;
+}
