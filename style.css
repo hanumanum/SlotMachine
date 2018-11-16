@@ -10,7 +10,9 @@
     height: 100px;
     line-height: 100px;
     text-align: center;
-    background-color: aqua;
+    background-color: #3498DB;
     display: inline-block;
     margin: 0px;
+    color:white;
+    font-size: 20px;
 }
