@@ -1,4 +1,4 @@
-//let topics = ["Mood","Lighting","Staging"]
+document.getElementById("reload").addEventListener("click",app)
 
 let conf = location.href.split("#")
 let lang = (conf[1]) ?  conf[1] : "en";
@@ -6,6 +6,7 @@ let topic = (conf[2]) ?  conf[2] : "Staging";
 let dataURL =  `l18n/${topic}/strings_${lang}.json`;
 
 app()
+
 
 function app() {
     var xhttp = new XMLHttpRequest();
@@ -25,7 +26,7 @@ function app() {
             {value: 'hsl(100, 60%, 60%)'}
           ],
           update: function() {
-            var el = document.querySelector('#slot1');
+            let el = document.querySelector('#slot1');
             el.innerHTML = slot1.next();
           }
         });
@@ -35,7 +36,7 @@ function app() {
             easing: 'easeInCubic',
             delay:1000,
             update: function() {
-              var el = document.querySelector('#slot2');
+              let el = document.querySelector('#slot2');
               el.innerHTML = slot2.next();
             }
           });
@@ -43,10 +44,21 @@ function app() {
         anime({
             round: 1,
             easing: 'easeInCubic',
-            delay:2000,
+            delay:1800,
             update: function() {
-              var el = document.querySelector('#slot3');
-              el.innerHTML = slot3.next();
+              let el = document.querySelector('#slot3');
+              
+              if(slotsData.files){
+                let text = slot3.next();
+                let link = slotsData.files[slot3.index]
+                let linkHTML  = `<a href='${link}' download>${text}</a>`
+                el.innerHTML = linkHTML;
+              }
+              else{
+                let text = slot3.next();
+                el.innerHTML = text;
+              }
+              
             }
         });
 

@@ -1,7 +1,7 @@
 #slotmachine{
     width:500px;
     background-color: wheat;
-    height: 100px;
+    height: 0px;
     margin:150px auto;
 }
 
@@ -17,3 +17,37 @@
     font-size: 18px;
 }
 
+.slot a{
+    color:white;
+}
+
+
+.slot a:hover{
+    color:black;
+}
+
+
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    padding: 1px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 40px;
+    margin: 4px auto;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+    color:white;
+}
+
+.button1 {
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: white;
+    color: black;
+}
