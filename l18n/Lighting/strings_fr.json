@@ -1,0 +1,6 @@
+{
+    "slot1":["Sunrise","Day","Sunset","Night"],
+    "slot2":["Horror","Adventure","Noir","CyberPunk"],
+    "slot3":["Download Package","Download Package","Download Package"],
+    "files":["files/esim.zip","files/esim.zip","files/esim.zip"]
+}
