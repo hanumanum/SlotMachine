@@ -3,11 +3,11 @@
 let conf = location.href.split("#")
 let lang = (conf[1]) ?  conf[1] : "en";
 let topic = (conf[2]) ?  conf[2] : "Staging";
-let dataURL =  `/l18n/${topic}/strings_${lang}.json`;
+let dataURL =  `l18n/${topic}/strings_${lang}.json`;
 
-loadStrings()
+app()
 
-function loadStrings() {
+function app() {
     var xhttp = new XMLHttpRequest();
     xhttp.onreadystatechange = function() {
       if (this.readyState == 4 && this.status == 200) {
