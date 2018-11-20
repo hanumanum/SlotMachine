@@ -1,6 +1,6 @@
 {
     "slot1":["Positive","Sad","Noir","Mystical"],
     "slot2":["Horror","Adventure","Shooter","Thriller"],
-    "slot3":["Download Package","Download Package","Download Package"],
+    "slot3":["Download City","Download Knights","Download Samuray","Download Vikings"],
     "files":["files/City.unitypackage","files/Knights Pack.unitypackage","files/Samurai Pack.unitypackage","files/Vikings Pack.unitypackage"]
 }
