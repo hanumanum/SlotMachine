@@ -15,6 +15,7 @@
     margin: 0px;
     color: white;
     font-size: 1em;
+    border-radius: 8px;
 }
 
 .slot a{
@@ -38,6 +39,7 @@
     transition-duration: 0.4s;
     cursor: pointer;
     color:white;
+    border-radius: 8px;
 }
 
 .button1 {
