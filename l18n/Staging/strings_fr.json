@@ -1,5 +1,5 @@
 {
-    "slot1":["Adult Man","Adult Woman","Teenage Boy","Teenage GIrl","Young Boy","Young Girl"],
-    "slot2":["Video Games","Toys","Books","Sports","Movies","Art","Music","Politics"],
-    "slot3":["Horror","Science FIction","History","Drama","Romance","Comedy","Thriller"]
+    "slot1":["Homme","Femme","Adolescent","Adolescente","Jeune garçon","Jeune fille"],
+    "slot2":["Jeux vidéo","Jouets","Livres","Sport","Cinéma","Art","Musique","Politique"],
+    "slot3":["Horreur","Science-fiction","Histoire","Drame","Romance","Comédie","Thriller"]
 }

@@ -1,6 +1,6 @@
 {
-    "slot1":["Positive","Sad","Noir","Mystical"],
-    "slot2":["Horror","Adventure","Shooter","Thriller"],
-    "slot3":["Download Package","Download Package","Download Package"],
-    "files":["files/esim.zip","files/esim.zip","files/esim.zip"]
+    "slot1":["Positive","Triste","Noire","Mystique"],
+    "slot2":["Horreur","Aventure","Tir","Thriller"],
+    "slot3":["Télécharger Ville","Télécharger Chevaliers","Télécharger Samuray","Télécharger les vikings"],
+    "files":["files/City.unitypackage","files/Knights Pack.unitypackage","files/Samurai Pack.unitypackage","files/Vikings Pack.unitypackage"]
 }

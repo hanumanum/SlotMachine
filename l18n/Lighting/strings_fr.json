@@ -1,6 +1,6 @@
 {
-    "slot1":["Sunrise","Day","Sunset","Night"],
-    "slot2":["Horror","Adventure","Noir","CyberPunk"],
-    "slot3":["Download Package","Download Package","Download Package"],
+    "slot1":["Levé de soleil","Jour","Couché de soleil","Nuit"],
+    "slot2":["Horreur","Aventure","Noir","CyberPunk"],
+    "slot3":["Télécharger le package","Télécharger le package","Télécharger le package"],
     "files":["files/esim.zip","files/esim.zip","files/esim.zip"]
 }
