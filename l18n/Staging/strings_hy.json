@@ -1,5 +1,5 @@
 {
-    "slot1":["Adult Man","Adult Woman","Teenage Boy","Teenage GIrl","Young Boy","Young Girl"],
-    "slot2":["Video Games","Toys","Books","Sports","Movies","Art","Music","Politics"],
-    "slot3":["Horror","Science FIction","History","Drama","Romance","Comedy","Thriller"]
+    "slot1":["Չափահաս տղամարդ","Չափահաս կին","Դեռահաս տղա","Դեռահաս աղջիկ","Տղա երեխա","Աղջիկ երեխա"],
+    "slot2":["Վիդեո խաղեր","Խաղալիքներ","Գրքեր","Սպորտ","Ֆիլմեր","Արվեստ","Երաժշտություն","Քաղաքականություն"],
+    "slot3":["Սարսափ","Գիտաֆանտաստիկա","Պատմական","Դրամա","Ռոմանտիկ","Կատակերգություն","Տրիլլեր"]
 }

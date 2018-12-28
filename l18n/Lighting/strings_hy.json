@@ -1,6 +1,6 @@
 {
-    "slot1":["Sunrise","Day","Sunset","Night"],
-    "slot2":["Horror","Adventure","Noir","CyberPunk"],
-    "slot3":["Download Package","Download Package","Download Package"],
+    "slot1":["Լուսաբաց","Կեսօր","Մայրամուտ","Գիշեր"],
+    "slot2":["Սարսափ","Արկած","Նուար","Սայբեր֊պանկ"],
+    "slot3":["Ներբեռնել փաթեթը","Ներբեռնել փաթեթը","Ներբեռնել փաթեթը"],
     "files":["files/esim.zip","files/esim.zip","files/esim.zip"]
 }

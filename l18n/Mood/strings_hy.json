@@ -1,6 +1,6 @@
 {
-    "slot1":["Positive","Sad","Noir","Mystical"],
-    "slot2":["Horror","Adventure","Shooter","Thriller"],
-    "slot3":["Download Package","Download Package","Download Package"],
+    "slot1":["Դրական","Տխուր","Նուար","Միսկտիկական"],
+    "slot2":["Սարսափ","Արկած","Մարտաֆիլմ","Տրիլլեր"],
+    "slot3":["Ներբեռնել Քաղաք","Ներբեռնել Ասպետներ","Ներբեռնել Սամուրայներ","Ներբեռնել Վիկինգներ"],
     "files":["files/City.unitypackage","files/Knights Pack.unitypackage","files/Samurai Pack.unitypackage","files/Vikings Pack.unitypackage"]
 }
