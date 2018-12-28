@@ -1,6 +1,6 @@
 {
     "slot1":["Լուսաբաց","Կեսօր","Մայրամուտ","Գիշեր"],
     "slot2":["Սարսափ","Արկած","Նուար","Սայբեր֊պանկ"],
-    "slot3":["Ներբեռնել փաթեթը","Ներբեռնել փաթեթը","Ներբեռնել փաթեթը"],
-    "files":["files/esim.zip","files/esim.zip","files/esim.zip"]
+    "slot3":["Ներբեռնել լույս 1","Ներբեռնել լույս 2","Ներբեռնել լույս 3","Ներբեռնել լույս 4"],
+    "files":["files/Light_City.zip","files/Light_Control_space.zip","files/Light_Space_room.zip","files/Light_Zen.zip"]
 }

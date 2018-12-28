@@ -1,6 +1,6 @@
 {
     "slot1":["Levé de soleil","Jour","Couché de soleil","Nuit"],
     "slot2":["Horreur","Aventure","Noir","CyberPunk"],
-    "slot3":["Télécharger le package","Télécharger le package","Télécharger le package"],
-    "files":["files/esim.zip","files/esim.zip","files/esim.zip"]
+    "slot3":["Télécharger la lumière 1","Télécharger la lumière 2","Télécharger la lumière 3","Télécharger la lumière 4"],
+    "files":["files/Light_City.zip","files/Light_Control_space.zip","files/Light_Space_room.zip","files/Light_Zen.zip"]
 }
