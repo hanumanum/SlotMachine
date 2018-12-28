@@ -6,16 +6,18 @@
 }
 
 .slot{
-    width: 32.4%;
+    width: 32.2%;
     height: 100px;
     line-height: 100px;
     text-align: center;
     background-color: #3498DB;
-    display: inline-block;
+    display: block;
     margin: 0px;
     color: white;
     font-size: 1em;
     border-radius: 8px;
+    float: left;
+    vertical-align: middle;
 }
 
 .slot a{

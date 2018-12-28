@@ -27,7 +27,7 @@ function app() {
           ],
           update: function() {
             let el = document.querySelector('#slot1');
-            el.innerHTML = slot1.next();
+            el.innerHTML = "<span>"+slot1.next() + "</span>";
           }
         });
 
@@ -37,7 +37,7 @@ function app() {
             delay:1000,
             update: function() {
               let el = document.querySelector('#slot2');
-              el.innerHTML = slot2.next();
+              el.innerHTML = "<span>"+slot2.next()+"</span>";
             }
           });
 
@@ -52,7 +52,7 @@ function app() {
                 let text = slot3.next();
                 let link = slotsData.files[slot3.index]
                 let linkHTML  = `<a href='${link}' download>${text}</a>`
-                el.innerHTML = linkHTML;
+                el.innerHTML = "<span>"+linkHTML+"</span>";
               }
               else{
                 let text = slot3.next();
