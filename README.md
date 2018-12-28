@@ -1,13 +1,13 @@
 
 
-* [https://hanumanum.github.io/SlotMachine/index.html#fr#Mood](https://hanumanum.github.io/SlotMachine/index.html#fr#Mood)
-* [https://hanumanum.github.io/SlotMachine/index.html#en#Mood](https://hanumanum.github.io/SlotMachine/index.html#en#Mood)
-* [https://hanumanum.github.io/SlotMachine/index.html#hy#Mood](https://hanumanum.github.io/SlotMachine/index.html#hy#Mood)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#fr#Mood](https://tumofreduclips.github.io/SlotMachine/index.html#fr#Mood)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#en#Mood](https://tumofreduclips.github.io/SlotMachine/index.html#en#Mood)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#hy#Mood](https://tumofreduclips.github.io/SlotMachine/index.html#hy#Mood)
 
-* [https://hanumanum.github.io/SlotMachine/index.html#fr#Lighting](https://hanumanum.github.io/SlotMachine/index.html#fr#Lighting)
-* [https://hanumanum.github.io/SlotMachine/index.html#en#Lighting](https://hanumanum.github.io/SlotMachine/index.html#en#Lighting)
-* [https://hanumanum.github.io/SlotMachine/index.html#hy#Lighting](https://hanumanum.github.io/SlotMachine/index.html#hy#Lighting)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#fr#Lighting](https://tumofreduclips.github.io/SlotMachine/index.html#fr#Lighting)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#en#Lighting](https://tumofreduclips.github.io/SlotMachine/index.html#en#Lighting)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#hy#Lighting](https://tumofreduclips.github.io/SlotMachine/index.html#hy#Lighting)
 
-* [https://hanumanum.github.io/SlotMachine/index.html#fr#Staging](https://hanumanum.github.io/SlotMachine/index.html#fr#Staging)
-* [https://hanumanum.github.io/SlotMachine/index.html#en#Staging](https://hanumanum.github.io/SlotMachine/index.html#en#Staging)
-* [https://hanumanum.github.io/SlotMachine/index.html#hy#Staging](https://hanumanum.github.io/SlotMachine/index.html#hy#Staging)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#fr#Staging](https://tumofreduclips.github.io/SlotMachine/index.html#fr#Staging)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#en#Staging](https://tumofreduclips.github.io/SlotMachine/index.html#en#Staging)
+* [https://tumofreduclips.github.io/SlotMachine/index.html#hy#Staging](https://tumofreduclips.github.io/SlotMachine/index.html#hy#Staging)
